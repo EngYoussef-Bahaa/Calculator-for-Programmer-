@@ -1,0 +1,10 @@
+﻿  Calculator For Programer.cpp
+G:\projects to be good at programing\Calculator For Programer\Calculator For Programer\Calculator For Programer.cpp(85,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\projects to be good at programing\Calculator For Programer\Calculator For Programer\Calculator For Programer.cpp(89,31): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+G:\projects to be good at programing\Calculator For Programer\Calculator For Programer\Calculator For Programer.cpp(113,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\projects to be good at programing\Calculator For Programer\Calculator For Programer\Calculator For Programer.cpp(130,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\projects to be good at programing\Calculator For Programer\Calculator For Programer\Calculator For Programer.cpp(179,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\projects to be good at programing\Calculator For Programer\Calculator For Programer\Calculator For Programer.cpp(193,27): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+G:\projects to be good at programing\Calculator For Programer\Calculator For Programer\Calculator For Programer.cpp(204,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\projects to be good at programing\Calculator For Programer\Calculator For Programer\Calculator For Programer.cpp(240,27): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+  Calculator For Programer.vcxproj -> G:\projects to be good at programing\Calculator For Programer\x64\Debug\Calculator For Programer.exe
